@@ -2,7 +2,7 @@
 
 Practice for the course of pluralsight "RSpec The Right Way".
 
-Dev Enviroment:
+Dev Environment:
 
 	- Ruby 2.2.0
 	- RSpec 3
